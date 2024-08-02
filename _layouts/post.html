@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<link rel="shortcut icon" type="image/x-icon" href="usa.jpeg">
+
+<article class="post">
+  <img class="image_size" id="post_image" src="" />
+  <p class="hidden" id="hidden">{{ page.image }}</p>
+
+  <h1>{{ page.title }}</h1>
+  <h4>{{page.subtitle }}</h4>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+  {% include disqus.html %}
+  
+  <script>
+    let img_p = document.getElementById('hidden').innerHTML;
+    let img = document.getElementById('post_image'); 
+    img.src = img_p
+  </script>
+</article>
+
+
