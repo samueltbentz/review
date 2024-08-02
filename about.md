@@ -6,7 +6,7 @@ permalink: /about/
 
 ![profile]({{ site.baseurl }}/usa.jpeg "profile")
 
-Samuel Bentz is a Christian software engineer located in Denver, Colorado. He is a deacon at a CREC church in Denver, Colorado and graduate of Westmont College where he played four years of collegiate basketball.
+The mission of Columbine Review is to promote a Christian approach to the political and cultural issues faced in Colorado. CR aims to equip Christians to live faithfully in Colorado as well as to promote and defend Biblical truths. In the face of cultural decline in our state, order can only be sustained by a living Christian faith. In the meantime, the goal of CR is to serve as an ambassador of reality to all of Colorado.
 
 ### Contact me
 
