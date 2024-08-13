@@ -3,6 +3,7 @@ layout: post
 title: Ambassadors of Reality
 image: https://raw.githubusercontent.com/samueltbentz/samueltbentz.github.io/master/images/knight.jpeg
 subtitle: Living Public Lives in Negative World
+author: Samuel Bentz
 ---
 
 One of C.S. Lewis' lesser known writings is a short essay entitled, "The Necessity of Chivalry." Lewis fondly recalls the days of knighthood and chivalry explaining, "The knight is a man of blood and iron, a man familiar with the sight of smashed faces and the ragged stumps of lopped-off limbs; he is also a demure, almost a maidenlike, guest in hall, a gentle, modest, unobtrusive man. He is not a compromise or happy mean between ferocity and meekness; he is fierce to the *nth* and meek to the *nth*." Lewis goes on to highlight how chivalry, in its original understanding, was no longer being inculcated into society at the time of his writing.
