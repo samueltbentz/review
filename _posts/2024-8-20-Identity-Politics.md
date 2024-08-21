@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Identity Politics
-image: https://https://raw.githubusercontent.com/samueltbentz/review/main/images/capitol.jpeg
+image: https://raw.githubusercontent.com/samueltbentz/review/main/images/capitol.jpeg
 subtitle: Building from the Ground Up
 author: Samuel Bentz
 ---
