@@ -2,7 +2,7 @@
 layout: post
 title: Restoration of Dignity
 image: https://raw.githubusercontent.com/samueltbentz/review/main/images/mountains.jpeg
-author: Samuel Bentz
+author: Samuel
 subtitle: They Don't Care About You
 ---
 

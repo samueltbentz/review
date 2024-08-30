@@ -3,7 +3,7 @@ layout: post
 title: Identity Politics
 image: https://raw.githubusercontent.com/samueltbentz/review/main/images/capitol.jpeg
 subtitle: Building from the Ground Up
-author: Samuel Bentz
+author: Samuel
 ---
 
 Last week, Democrat Vice Presidential candidate, Tim Walz, stopped in Denver for a one-night fundraiser and promptly returned to the midwest. This comes one week after former President Donald Trump passed through Aspen for a private fundraiser himself. The lack of time spent in Colorado by both tickets indicates that Colorado is not in play this Fall for the Republicans. Thoroughly blue for the last decade, Trump sent out a post referring to Colorado as a "political cesspool." Trump has his reasons to use such strong language given the Democrats in Colorado attempted to keep him off the primary ballot entirely. Furthermore, Democrats in Colorado have the governor, the senate, the house of representatives and the mayors of both Denver and Colorado Springs in their arsenal. With critical elections upcoming this Fall, one would think the Colorado G.O.P. would be laser focused in getting whatever candidates they can across the finish line, and yet the topic of debate at the moment is if the chairman of the party should step down or not. This is a sad example of an observation C.S. Lewis famously made, "The game is to have them all running around with fire extinguishers whenever there’s a flood; and all crowding to that side of the boat which is already nearly gone under."
