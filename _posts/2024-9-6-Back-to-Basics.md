@@ -6,7 +6,7 @@ author: Samuel
 subtitle: Punish the Bad and Reward the Good
 ---
 
-In the classic children's book, 'Madeline', we are told the little girls at the Parisian school they attend "smiled at the good and frowned at the bad." For those familiar with the Bible, such a description brings to mind Romans 12:9, "Abhor that which is evil; cleave to that which is good." This is a command given to all Christians and yet fundamentally it is also the most basic role of the civil magistrate or government.
+In the classic children's book, 'Madeline', we are told that little girls attending the Parisian school "smiled at the good and frowned at the bad." For those familiar with the Bible, such a description brings to mind Romans 12:9, "Abhor that which is evil; cleave to that which is good." This is a command given to all Christians and yet fundamentally it is also the most basic role of the civil magistrate or government.
 
 As Coloradans uneasily watch the situation in Aurora play out, it is a helpful time to reconsider the primary duties of government. At the most foundational level, the magistrate exists "for the punishment of evildoers, and for the praise of them that do well", as it is explained in 1 Peter 2:14. This is not the only place where this principle is declared, but also in Romans 13:3-4 where Paul describes the role of rulers,
 >For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same: For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil.
