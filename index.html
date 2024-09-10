@@ -5,19 +5,12 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-      <img class="image_size" id="post_image" src="" />
-      <p class="hidden" id="hidden">{{ post.image }}</p>
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <h4>Written by {{post.author }} on {{ post.date | date: "%B %e, %Y" }}</h4>
       <div class="entry">
         {{ post.excerpt }}
       </div>
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-      <script>
-        let img_p = document.getElementById('hidden').innerHTML;
-        let img = document.getElementById('post_image'); 
-        img.src = img_p
-      </script>
     </article>
   {% endfor %}
 </div>
