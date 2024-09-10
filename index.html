@@ -6,8 +6,8 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <p class="hidden" id="hidden">{{ page.image }}</p>
-      <h4>Written by {{page.author }} on {{ page.date | date: "%B %e, %Y" }}</h4>
+      <p class="hidden" id="hidden">{{ post.image }}</p>
+      <h4>Written by {{post.author }} on {{ post.date | date: "%B %e, %Y" }}</h4>
       <div class="entry">
         {{ post.excerpt }}
       </div>
