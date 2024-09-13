@@ -10,6 +10,8 @@ There are 14 statewide initiatives on the ballot in Colorado this Fall. They cov
 
 For reference, the Colorado Democrat Party released their [Democrat voter guide](https://www.coloradodems.org/ballotmeasures) suggesting which initiatives to vote for, vote against and initiatives where they hold "No Position." The Colorado GOP similarly released their suggested [voting guide](https://www.cologop.org/2024-colorado-ballot-questions/) which features 13 of the 14 ballot initiatives with short explanations on why their position is correct.
 
+---
+
 ## Amendment 79 ##
 
 **Creates a right to abortion in the state constitution as well as allowing use public funds for abortion.**
